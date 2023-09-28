@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+body {
+
+  background-color: #252525;
+  font-weight: 100;
+  color: white;
+
+}
+
+.bg-button {
+  background-color: #1d1c1c;
+}
