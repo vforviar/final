@@ -13,7 +13,8 @@ function Ungkapan() {
                     </audio>
                 </div>
                 <p>
-                    Hai, Kamu apa kabar sekarang? aku harap kamu baik baik saja dan selalu baik baik saja. Maaf ya atas semua yang aku lakuin selama ini jika itu bikin kamu kesel, marah, atau sedih. Ternyata aku tidak setepat yang kamu bayangkan di awal. maaf kalo udah bikin kamu kecewa dan ga sesuai ekspektasimu terhadapku. aku berharap jadi orang yang tepat buat kamu, tapi ternyata ujungnya seperti ini. Aku sakit hati, tapi mungkin ini sepadan dengan apa yang aku lakuin ke kamu. aku tidak cukup baik buat kamu.
+                    Hai, Kamu apa kabar sekarang? aku harap kamu baik baik saja dan selalu baik baik saja. Aku sayang banget sama kamu tapi maaf sikap aku kadang bikin kamu kesel, bikin kamu marah, atau bikin kamu cape.
+                    Maaf juga kalo aku belum bisa jadi apa yang kamu mau. Ternyata aku tidak setepat yang kamu bayangkan di awal. maaf kalo udah bikin kamu kecewa dan ga sesuai ekspektasimu terhadapku. aku berharap jadi orang yang tepat buat kamu, tapi ternyata ujungnya seperti ini. Aku sakit hati, tapi mungkin ini sepadan dengan apa yang aku lakuin ke kamu. aku tidak cukup baik buat kamu.
 
                 </p>
                 <br />

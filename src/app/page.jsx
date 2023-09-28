@@ -17,7 +17,10 @@ export default function Home() {
         <div className='h-screen flex items-center justify-center '>
 
           <div className=' absolute z-40' >
-
+            <audio autoPlay>
+              <source src='assets/aud/ts.mp3' type='audio/mp3' />
+              <source />
+            </audio>
             <div className='grid grid-cols-1 gap-2 '>
               <p className=' font-serif md:text-5xl text-4xl md:tracking-[50px] tracking-[20px] text-center '>FINAL CHAPTER</p>
               <p className=' text-center tracking-wide md:text-base text-sm'>Clandestine X Metanoia </p>
